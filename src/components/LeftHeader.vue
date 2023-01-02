@@ -65,6 +65,6 @@ const reset = () => {
 }
 
 const github = () => {
-    window.open('https://www.daidu.com')
+    window.open('https://github.com/printfCYQ/vue3-ts-resume-online.git')
 }
 </script>
